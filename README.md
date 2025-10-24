@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="200" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,13 +57,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⏱ Streak Stats
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=FelipeCrespo&theme=radical&show_icons=true&count_private=true&include_all_commits=true&border_radius=15)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipecresp0&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 </div>
 
+## 📈 Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecresp0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📊 Most Used Languages
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCrespo&layout=compact&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=felipecresp0&show_icons=true&locale=en&layout=compact&theme=radical)]()
+</div>
+
+## 🏆 Profile Trophies
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=felipecresp0&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
