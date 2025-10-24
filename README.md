@@ -58,36 +58,35 @@
 ---
 
 ### ⏱ Streak Stats
- 
-<div align=center>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipecresp0&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
+ 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=felipecresp0&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 📈 Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecresp0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 Most Used Languages
+
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=felipecresp0&show_icons=true&locale=en&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecresp0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ### 🏆 Profile Trophies
 
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=felipecresp0&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=felipecresp0&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" alt="Profile Trophies" />
+  </a>
 </div>
 
----
 
 ## 🔗 Contact Me
 <div align="center">
-<a href="mailto:felipe.crespo@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/felipe-crespo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/FelipeCrespo"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:felipezgz1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/felipe-crespo-jim%C3%A9nez-1568a6196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
